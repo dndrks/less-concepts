@@ -1,4 +1,3 @@
-# less_concepts
 Brevity may be the soul of wit, but specificity is the death of ambiguity.
 
 The last thing this needs is ambiguity...
@@ -74,11 +73,9 @@ Actually, let’s have it span two octaves:
 Each of these numbers occupy an index position in the Tracker, beginning with a 0th position.
 e.g.: ‘7’ is in the **4th** position, ’17’ is in the **10th** position, ‘0’ is in the **0th** position.
 
-Choice: I want to use CA to crawl these Tracker positions.
-
-Barrier: Teletype’s CA operator naturally returns values between 0 and 255 and I only have 14 positions, 0 through 13.
-
-Solution: I can compress the range of 0 through 255 to 0 through 13, to make it easier for the CA to return useful results when it crawls the Tracker positions.
+**Choice**: I want to use CA to crawl these Tracker positions.  
+**Barrier**: Teletype’s CA operator naturally returns values between 0 and 255 and I only have 14 positions, 0 through 13.  
+**Solution**: I can compress the range of 0 through 255 to 0 through 13, to make it easier for the CA to return useful results when it crawls the Tracker positions.
 
 Teletype’s math operators allow me to scale these results. So, if the CA returns its max of 255, Teletype will scale it to the new max of 13. It will also round decimals.
 
@@ -101,15 +98,14 @@ Translating a few of the CA sequence from earlier to (rounded) Tracker positions
 249 -> 13  
 ```
 
-Choice: I want to remove the dumb, thinking part of my self from the sequencing of pitches.
-
-Solution: Use the major scale degrees in each CA-chosen Tracker positions (above) to sequence an oscillator.
+**Choice**: I want to remove the dumb, thinking part of my self from the sequencing of pitches.  
+**Solution**: Use the major scale degrees in each CA-chosen Tracker positions (above) to sequence an oscillator.
 
 Iterating these results from Tracker position to actual major scale degrees...  
 note data:`[0,2,4,5,7,9,11,12,14,16,17,19,21,23]`  
 
 ```
-(position -> note data)
+(position -> note data)  
 
 2 -> 4  
 6 -> 11  
@@ -127,7 +123,7 @@ note data:`[0,2,4,5,7,9,11,12,14,16,17,19,21,23]`
 
 What was once a jumble of generally-unpredictable-but-eventually-repeating numbers are now a repeating sequence of notes!
 
-For review:  
+*For review:*  
 - we started with CA to generate “random” numbers, ranging from 0-255  
 - we entered the notes we wanted to play in Teletype’s Tracker, positions 0-13  
 - we took those CA results and scaled them down to 0-13 to seek through the Tracker positions  
@@ -155,11 +151,10 @@ And if it does, the high doesn’t last.
 
 The real fun of this (which has to be the only quality that really matters) is in dialogue.
 
-##Last bit...
+## Last bit...
 
-Choice: It’d be rad if there were direct relationships between pitches and rhythms.
-
-Barrier: Determining *when* notes happen is the other most stressful part for me.
+**Choice**: It’d be rad if there were direct relationships between pitches and rhythms.  
+**Barrier**: Determining *when* notes happen is the other most stressful part for me.
 
 Let’s revisit those binary conversions.
 
@@ -193,14 +188,14 @@ Gates can be opened with voltage.
 This lets sound through.  
 When voltage is no longer supplied, the sound is silenced.
 
-Choice: It’d be rad if there were direct relationships between pitches and rhythms.  
-Solution: Use the binary representation of each note to determine whether or not that note is heard.
+**Choice**: It’d be rad if there were direct relationships between pitches and rhythms.  
+**Solution**: Use the binary representation of each note to determine whether or not that note is heard.
 
 I like using a raw sine wave and a processed copy of that same sine wave, so I’m getting two variants of the same source.
 
 So, if each note provides its own string of 1’s and 0’s (or ons/offs)...
 
-Choice: If the rightmost bit in a note’s binary representation is 1, then open the raw sine wave’s gate. If the second rightmost bit in a note’s binary representation is 1, then open the processed copy’s gate.
+**Choice**: If the rightmost bit in a note’s binary representation is 1, then open the raw sine wave’s gate. If the second rightmost bit in a note’s binary representation is 1, then open the processed copy’s gate.
 
 Which gets us...  
 
