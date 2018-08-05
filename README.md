@@ -109,7 +109,8 @@ Iterating these results from Tracker position to actual major scale degrees...
 note data:`[0,2,4,5,7,9,11,12,14,16,17,19,21,23]`  
 
 ```
-(position -> note data)  
+(position -> note data)
+
 2 -> 4  
 6 -> 11  
 9 -> 16  
