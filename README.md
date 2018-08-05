@@ -13,6 +13,10 @@ The five pieces were created using one of the operators in Teletype’s code: ce
 
 Picture a grid of white squares. Now imagine a single black square in the top row of the middle column. Cellular automata uses a simple set of rules to determine whether or not the squares around + below that single black square should be white or black, based on how many squares around it are white or black. The same rules are applied to the squares around + below, and again and again, down all the rows. The end results can be pattern-based, like a fractal, but sometimes things can get really weird and unpredictable. It’s a science that’s been used to model growth systems used in AI, video games, and DNA sequences.
 
+Sorta looks like this:
+
+![Cellular Automata image from Wolfram](http://mathworld.wolfram.com/images/eps-gif/ElementaryCA30_1000.gif)
+
 Fuckin’ wild, right?
 
 ## CA, from EMB
