@@ -9,7 +9,7 @@ The five pieces were recorded from 5/16/2018 - 6/22/2018.
 
 The tonal content — rhythms, melodies, harmonies — were all decided in real time by Teletype, a small computer-y device that allows a person to code how and when they want musical events to happen using synthesizers. It uses lists to keep track of notes. It uses voltage to communicate with oscillators (the raw voice of a synthesizer). Teletype is also a platform that’s been heavily developed by the community that uses it, through the addition and expansion of its musical code language.
 
-The five pieces were created using one of the operators in Teletype’s code: cellular automata. It has been a real, deep joy to explore and I didn’t know much about the science of it before, so here’s an overly excited visual description:
+The five pieces were created using one of the operators in Teletype’s code: cellular automata. It has been a real, deep joy to explore and I didn’t know much about the science of it before, so here’s an **overly excited description**:
 
 Picture a grid of white squares. Now imagine a single black square in the top row of the middle column. Cellular automata uses a simple set of rules to determine whether or not the squares around + below that single black square should be white or black, based on how many squares around it are white or black. The same rules are applied to the squares around + below, and again and again, down all the rows. The end results can be pattern-based, like a fractal, but sometimes things can get really weird and unpredictable. It’s a science that’s been used to model growth systems used in AI, video games, and DNA sequences.
 
