@@ -246,6 +246,7 @@ Mannequins Three Sisters x2
 Mannequins Cold Mac
 Mannequins w/ x2
 Make Noise Function
+Meng Qi DPLPG
 Max/MSP custom device based on Rodrigo Constanzo’s karma~
 ```
 
