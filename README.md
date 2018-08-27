@@ -74,7 +74,7 @@ The way that cellular automata has been implemented in Teletype, you begin by ch
 
 To demonstrate this process, I've made some accompanying software for you to download along with this album. It looks like this:
 
-![less_concepts_screenshot](/Users/derks/Desktop/Screen Shot 2018-08-26 at 6.35.02 PM.png)
+![less_concepts_screenshot](https://github.com/dndrks/less_concepts/blob/master/doc_images/whole.png)
 
 The core compositional process that made this album can be acheived with this device. It's a pretty close port of how I use the CA operators in Teletype, so rather than talk about some hardware you might not have, let's talk about some software that you *can* have if you wanna!
 
@@ -86,13 +86,13 @@ In the **seed** box, enter `36`.
 
 You should see the **rule as binary** change as the function converts the **rule** integer to binary:
 
-![rule_seed](/Users/derks/Desktop/seed.png)
+![rule_seed](https://github.com/dndrks/less_concepts/blob/master/doc_images/seed.png)
 
 `30` == `00011110`
 
 Keeping the sequencer off, hit the **iterate** button to convert the **seed** integer to binary:
 
-![iterated](/Users/derks/Desktop/bits.png)
+![iterated](https://github.com/dndrks/less_concepts/blob/master/doc_images/bits.png)
 
 `36` == `00100100`
 
@@ -139,7 +139,7 @@ While Teletype performs the CA process, it can also store lists of numbers in a 
 
 These are in our device in a dropdown menu, starting with the ionian/major scale:
 
-![scale_stuff](/Users/derks/Desktop/Screen Shot 2018-08-26 at 5.06.11 PM.png)
+![scale_stuff](https://github.com/dndrks/less_concepts/blob/master/doc_images/scale.png)
 
 If you hit the 'open' button, you'll see two columns of numbers. On the right, you'll see the steps of the scale:
 `[0,2,4,5,7,9,11,12,14,16,17,19,21,23]`
@@ -225,7 +225,7 @@ The real fun of this (which has to be the only quality that really matters) is i
 **Choice**: It’d be rad if there were direct relationships between pitches and rhythms.  
 **Solution**: Use the binary representation of each iterated value to determine whether or not the note it sequences is heard.
 
-![iterated](/Users/derks/Desktop/Screen Shot 2018-08-26 at 3.43.22 PM.png)
+![iterated](https://github.com/dndrks/less_concepts/blob/master/doc_images/bits.png)
 
 Binary’s most basic application is for on/off messages; 1 = on and 0 == off.  
 So, basically, each iterated value is just a series of on/off messages.
@@ -239,7 +239,7 @@ But synthesizers operate on -> off. Sound is *always* flowing from an oscillator
 
 To turn on the two oscillators in the device, *turn on the DSP* and click each **osc** button:
 
-![osc](/Users/derks/Desktop/Screen Shot 2018-08-26 at 6.26.24 PM.png)
+![osc](https://github.com/dndrks/less_concepts/blob/master/doc_images/osc.png)
 
 These two **osc**illators are gated, so you won't hear any sound.  
 Gates can be opened with voltage, which lets sound through.  
@@ -268,6 +268,8 @@ M4L custom device based on Rodrigo Constanzo’s karma~
 The master was wonderfully handled + hemled by Sage Kim, from Lacquer Channel Mastering in Toronto, Ontario. I chose Sage based on her excellent treatment of folk material, which manifested nicely in her master -- she unearthed harmonic relationships I had long forgot about and put enough of her fingerprint into the project that I can listen without hearing *myself* in the work.
 
 The artwork is an original piece by my partner Racquel Cable. Her work can be found on Instagram under `@suitcasedog`.
+
+![Racquel Cable](https://github.com/dndrks/less_concepts/blob/master/cover.jpg)
 
 When we first moved in together, she let me have the extra bedroom to set up a studio – I was primarily doing laptop stuff, but was trying to save up for the gear listed above. She would work in the living room while I worked in this closed space and once I got a small skiff together, I started joining her in the living room. It felt so good for us to work in the same space, so I thanked her for wanting to give me a zone of my own but ultimately, I wanted it to be filled with us.
 
