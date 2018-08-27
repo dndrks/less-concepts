@@ -267,9 +267,7 @@ M4L custom device based on Rodrigo Constanzo’s karma~
 
 The master was wonderfully handled + hemled by Sage Kim, from Lacquer Channel Mastering in Toronto, Ontario. I chose Sage based on her excellent treatment of folk material, which manifested nicely in her master -- she unearthed harmonic relationships I had long forgot about and put enough of her fingerprint into the project that I can listen without hearing *myself* in the work.
 
-The artwork is an original piece by my partner Racquel Cable. Her work can be found on Instagram under `@suitcasedog`.
-
-![Racquel Cable](https://github.com/dndrks/less_concepts/blob/master/cover.jpg)
+The artwork is an original piece by my partner Racquel Cable. Her work can be found on Instagram under [`@suitcasedog`](https://www.instagram.com/suitcasedog/).
 
 When we first moved in together, she let me have the extra bedroom to set up a studio – I was primarily doing laptop stuff, but was trying to save up for the gear listed above. She would work in the living room while I worked in this closed space and once I got a small skiff together, I started joining her in the living room. It felt so good for us to work in the same space, so I thanked her for wanting to give me a zone of my own but ultimately, I wanted it to be filled with us.
 
