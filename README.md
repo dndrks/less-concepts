@@ -1,4 +1,4 @@
-# less_concepts
+# less concepts
 Brevity may be the soul of wit, but specificity is the death of ambiguity.
 
 The last thing this needs is ambiguity...
