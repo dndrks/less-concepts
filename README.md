@@ -20,6 +20,8 @@ M4L custom device based on Rodrigo Constanzo’s karma~
 
 The master was wonderfully handled + helmed by Sage Kim at Lacquer Channel Mastering in Toronto, Ontario. I chose Sage based on her excellent treatment of folk material, which manifested nicely in this master -- she unearthed harmonic relationships I had long forgot about and put enough of her fingerprint into the project that I can listen without hearing *myself* in the work.
 
+Extra thanks to Jonny Butler, Kyle Chamberlin, Sean Hellfritsch, Michael Hetrick, and Nick Sanborn for their guidance and feedback through the mastering process + documentation build.
+
 The artwork is an original piece by Racquel Cable. Her work can be found on Instagram under [`@suitcasedog`](https://www.instagram.com/suitcasedog/).
 
 When Racquel and I first moved in together, she graciously let me have the extra bedroom to set up a studio. I was primarily doing laptop stuff, but was trying to save up for the gear listed above. I stapled moving blankets onto the walls. She would work in the living room while I worked in this closed, dark space. It was terrible. Once I got some of the gear listed above, I started joining her in the living room. After a few weeks of this, I thanked her for giving me a zone of my own but ultimately, I wanted to be near her art whenever I made art. So we tore down the blankets, rearranged the stuff, and starting filling the studio with us.
