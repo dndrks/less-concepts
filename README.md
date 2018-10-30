@@ -250,7 +250,7 @@ Choose a blue bit and the instrument receiving the blue **midi to** will start s
 
 ![iterating_bits](https://github.com/dndrks/less_concepts/blob/master/doc_images/iter_bits.png?raw=true)
 
-Changing the bits will reveal new melodic phrases, harmonies and rhythms, as they are gating a master pattern. This type of subtractive composition is in line with Caterina Barbieri's [brilliant approach] (https://www.soundonsound.com/news/interview-minimalist-electronic-artist-caterina-barbieri).
+Changing the bits will reveal new melodic phrases, harmonies and rhythms, as they are gating a master pattern. This type of subtractive composition is in line with Caterina Barbieri's [brilliant approach](https://www.soundonsound.com/news/interview-minimalist-electronic-artist-caterina-barbieri).
 
 To hear the entire sequence through a channel, simply hit the **all** button to the left of its bit stream.
 
