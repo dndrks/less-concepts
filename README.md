@@ -65,7 +65,7 @@ Looks like this:
 
 ![Cellular Automata image from Wolfram](http://mathworld.wolfram.com/images/eps-gif/ElementaryCA30_1000.gif)
 
-You can read more about cellular automata in Stephen Wolfram's book: [A New Kind of Science] (http://www.wolframscience.com/nks/p170--cellular-automata/)
+You can read more about cellular automata in Stephen Wolfram's book: [A New Kind of Science](http://www.wolframscience.com/nks/p170--cellular-automata/)
 
 Fuckin’ wild, right?
 
