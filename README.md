@@ -119,7 +119,7 @@ When I describe this process to folks -- even folks who work with this type of h
 
 To help marry the process and the results, I've made some accompanying software for you to download along with this album. It's also called *less concepts* and it looks like this:
 
-![less_concepts_screenshot](https://github.com/dndrks/less_concepts/blob/master/doc_images/main.png?raw=true)
+![less_concepts_screenshot](/doc_images/main.png?raw=true)
 
 The core compositional process that made this album can be achieved with this device. It's a pretty close port of how I use the CA operators in Teletype, so rather than talk about some hardware you might not have, let's talk about some software that you *can* have if you want to have it!
 
@@ -137,7 +137,7 @@ In the **rule as binary** section, you'll see `00011110`, which is the **rule** 
 
 Keeping the sequencer off, hit the **iterate** button to convert the **seed** integer to binary:
 
-![iterated](https://github.com/dndrks/less_concepts/blob/master/doc_images/bits1.png?raw=true)
+![iterated](/doc_images/bits1.png?raw=true)
 
 `36` == `00100100`
 
@@ -186,7 +186,7 @@ Clicking into the dropdown menu, you will see a list of scales, starting with 'i
 
 If you keep it on 'ionian' and hit the 'open' button, you'll see two columns of numbers. On the right, you'll see the steps of the scale:
 
-![scales_screenshot](https://github.com/dndrks/less_concepts/blob/master/doc_images/scales.png?raw=true)
+![scales_screenshot](/doc_images/scales.png?raw=true)
 
 Each of these numbers occupy an index position in our Tracker, beginning with a 0th position. The *position* is the number on the left of the semicolon.
 e.g.: ‘7’ is in the **4th** position, ’17’ is in the **10th** position, ‘0’ is in the **0th** position.
@@ -248,7 +248,7 @@ With the **seq** on, you should see the seed growing + eventually, looping back 
 
 Choose a blue bit and the instrument receiving the blue **midi to** will start sounding. Same with the red.
 
-![iterating_bits](https://github.com/dndrks/less_concepts/blob/master/doc_images/iter_bits.png?raw=true)
+![iterating_bits](/doc_images/iter_bits.png?raw=true)
 
 Changing the bits will reveal new melodic phrases, harmonies and rhythms, as they are gating a master pattern. This type of subtractive composition is in line with Caterina Barbieri's [brilliant approach](https://www.soundonsound.com/news/interview-minimalist-electronic-artist-caterina-barbieri).
 
